@@ -15,7 +15,7 @@ export default function About() {
           </div>
           <div className='content'>
             Name: Mier Rashid. Code (Pen) name: uhakdt (6 random letters). <br />
-            I try to explain concepts I deem interesting using simple terms and without the least amount of background as possible. The concepts will mainly include technical topics. Theses will be topics I am learning myself about and most likely will contain mistakes. Please send me an email on: <a href='mailto:uhakdt@gmail.com'>uhakdt@gmail.com</a>, if that is the case. <br />
+            I try to explain concepts I deem interesting using simple terms and without the least amount of background as possible. The concepts will mainly include technical topics. These will be topics I am learning myself about and most likely will contain mistakes. Please send me an email on: <a href='mailto:uhakdt@gmail.com'>uhakdt@gmail.com</a>, if that is the case. <br />
             It also will have a list of projects I have or am working on. Will update that page soon.
           </div>
         </div>

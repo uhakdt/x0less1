@@ -17,6 +17,9 @@ export default function Banner() {
         <Col>
           <Link to='/projects' className='links'>projects</Link>
         </Col>
+        <Col>
+          <Link to='/listx' className='links'>list X</Link>
+        </Col>
       </Row>
     </Container >
   )
