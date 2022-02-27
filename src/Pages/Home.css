@@ -1,0 +1,12 @@
+.postTitles {
+  margin-top: 4.2rem;
+  margin-left: 4.2rem;
+}
+
+.postTitle {
+  margin-top: 6.9px;
+}
+
+.links:hover {
+  text-decoration: 'underline';
+}
